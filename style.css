@@ -303,15 +303,15 @@ section{
 .product .box-container .box img{
   height: 30rem;
   width:100%;
-  border-bottom:.1rem solid rgba(0,0,0,.3);
+  border-bottom:.1rem solid rgba(0,0, 0.3);
   object-fit: cover;
 }
 
 .product .box-container .box .discount{
   position: absolute;
   top:1rem; left:1rem;
-  background:rgba(0,255,0,.1);
-  color:var(--green);
+  background:rgba(36, 129, 8, 0.411);
+  color:var(--red);
   font-size: 2rem;
   padding:.5rem 1rem;
 }
